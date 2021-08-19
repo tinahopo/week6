@@ -15805,7 +15805,7 @@ p {
 .banner {
   width: 100%;
   height: 480px;
-  background: url("./../../../assets/images/ricardo-gomez-angel-UrOZTfXT0h0-unsplash.jpg") no-repeat;
+  background: url("../../images/ricardo-gomez-angel-UrOZTfXT0h0-unsplash.jpg") no-repeat;
   background-position: center;
   background-size: cover;
 }
